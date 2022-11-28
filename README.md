@@ -1,1 +1,4 @@
 # Dynamic-API-Mashup-Ecosystem-Analysis
+general为对数据集的总体分析 分别包括对Fig.1和TABLE I的代码
+API_coperation_Networkx为对API-Mashup网络的分析，里面的每个脚本名称后面都有对应的图片和表格名，一一对应。
+Cotegory_coperation_Networkx为Category网络分析，里面的每个脚本名称后面都有对应的图片和表格名，一一对应。
